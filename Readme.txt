@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+# Simrat Bains Portfolio
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to my portfolio! I'm Simrat, a Software Engineer based in Toronto. Explore my skills, projects, and experiences.
